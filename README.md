@@ -13,7 +13,7 @@ gem 'middleman3-sassc', '~> 0.0.1'
 In `config.rb`:
 
 ```ruby
-activate :minify_html
+activate :sassc
 ```
 
 ## License
